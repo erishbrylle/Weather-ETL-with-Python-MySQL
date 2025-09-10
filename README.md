@@ -29,7 +29,7 @@ weather-etl/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/erishbrylle/Weather-ETL-with-Python-MySQL
+git clone https://github.com/erishbrylle/Weather-API-ETL-with-Python-MySQL
 cd weather-etl
 ```
 
