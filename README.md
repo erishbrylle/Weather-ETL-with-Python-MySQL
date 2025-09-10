@@ -82,6 +82,8 @@ city,country,temperature_c,humidity,wind_speed,description,timestamp
 Manila,PH,31.25,74,3.6,"broken clouds",2025-09-10 14:35:21
 Tokyo,JP,28.67,65,5.1,"clear sky",2025-09-10 14:35:22
 ```
+
+```bash
 MySQL Table (weather_data)
 +----+--------+---------+---------------+----------+------------+----------------+---------------------+
 | id | city   | country | temperature_c | humidity | wind_speed | description    | timestamp           |
